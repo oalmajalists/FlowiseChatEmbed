@@ -50,10 +50,10 @@ export const Badge = (props: Props) => {
         'background-color': props.badgeBackgroundColor ?? '#ffffff',
       }}
     >
-      Powered by
+      Powered by STS
       <a
         ref={liteBadge}
-        href={'https://flowiseai.com'}
+        href={'https://STSarabia.com'}
         target="_blank"
         rel="noopener noreferrer"
         class="lite-badge"
